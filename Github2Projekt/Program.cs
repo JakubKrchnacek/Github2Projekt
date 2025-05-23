@@ -4,7 +4,8 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, Jakub!");
-        }
+            Console.WriteLine("Napsal jsem novou metodu");
+        }            
     }
+    
 }
